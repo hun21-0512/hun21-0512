@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @hun21-0512
-- 👀 I’m interested in ... making robot
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in system-auto-matic like mecro, robot_project, office_autoProcessing and making my world_game
+- 🌱 I’m currently learning java to make app
+- 💞️ I’m looking to collaborate on illustrator and basic_recognize
+- 📫 How to reach me
 
-<!---
-hun21-0512/hun21-0512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- if you interest making my_world_game
+- please contact promised010203@gmail.com
