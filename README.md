@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hun21-0512
+- 👋 Hi, I’m @hun
 - 👀 I’m interested in system-auto-matic like mecro, robot_project, office_autoProcessing and making my world_game
 - 🌱 I’m currently learning java to make app
 - 💞️ I’m looking to collaborate on illustrator and basic_recognize
